@@ -1,4 +1,4 @@
-INSTRUCTIONS: Drag Speech in your desktop and thats it!
+INSTRUCTIONS: Drag Speech.vbs in your desktop and thats it!
 
 
 T                    H                     A                     N                              K                       S
